@@ -5,7 +5,7 @@ A PyTorch implementation of Multi-Model Attention based Model for Visceral Adipo
 
 <!-- ![Network Architecture](figures/architecture.png) -->
 <div align="center">
-  <img src="figures/architecture.png" alt="Network Architecture" width="500" height="300"/>
+  <img src="figures/architecture.png" alt="Network Architecture" width="590" height="390"/>
 </div>
 
 ## Dataset
