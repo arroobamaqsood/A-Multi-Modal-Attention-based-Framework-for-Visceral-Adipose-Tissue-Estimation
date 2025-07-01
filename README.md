@@ -19,8 +19,5 @@ This implementation expects the dataset in a CSV file format, with the following
 
 All input images are expected to be DICOM (.dcm) files.
 
-## Train Model
-Use the `train.ipynb` file to train the model on your dataset.
-
-## Predictions on New Data
-Use the `predictions.ipynb` file to test the model on new unseen dataset.
+## Model Implementation
+The `module.ipynb` file contains the implementation to the proposed model.
